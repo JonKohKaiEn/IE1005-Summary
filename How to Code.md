@@ -66,3 +66,20 @@ if (condition 1){
 	// do something 3
 }
 ```
+
+### Switch statement
+```
+switch (expression)  // can be integer or char
+{
+	case value1:
+		// do something
+		break;
+
+	case value2:
+		// do something 2
+		break;
+
+	default:
+		// do something 3
+}
+```
